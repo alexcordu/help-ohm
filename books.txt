@@ -1,0 +1,5 @@
+1. Michael Elder, Jake Kitchener, Brad Topol. Hybrid Cloud Apps with OpenShift and Kubernetes: Delivering Highly Available Applications and Services. O'Reilly Media, 2021.
+2. John Arundel, Justin Domingus. Cloud Native DevOps with Kubernetes, 2nd Edition. O'Reilly Media, 2021.
+3. Stefano Picozzi, Mike Hepburn, Noel O'Connor. DevOps with OpenShift: Cloud Deployments Made Easy. O'Reilly Media, 2021.
+4. Josh Wood, Brian Tannous. OpenShift for Developers: A Guide for Impatient Beginners. O'Reilly Media, 2020.
+5. John Arundel, Justin Domingus. Cloud Native DevOps with Kubernetes, 2nd Edition [M]. 2023. This updated edition walks through deploying applications in Kubernetes, covering essential patterns and practices for cloud-native development.
